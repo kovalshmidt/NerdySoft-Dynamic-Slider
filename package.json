@@ -1,0 +1,22 @@
+{
+  "name": "nerdysoft-dynamic-slider",
+  "version": "1.0.0",
+  "description": "Dynamic Slider",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kovalshmidt/NerdySoft-Dynamic-Slider.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kovalshmidt/NerdySoft-Dynamic-Slider/issues"
+  },
+  "homepage": "https://github.com/kovalshmidt/NerdySoft-Dynamic-Slider#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
